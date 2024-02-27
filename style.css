@@ -133,6 +133,7 @@ body{
     border-radius:12px;
     text-align: center;
     padding:20px 15px;
+    margin-bottom: 150px;
 }
 .menu-btn {
     text-decoration: none;
@@ -145,6 +146,32 @@ body{
 .menu-btn:hover{
     background-color: lightblue;
     transition: 1s;
+}
+.line{
+    border-top: 1px solid red;
+}
+/* ===================================================== */
+.insta-menu{
+    border: 1px solid lightgrey;
+    width:250px;
+    height:850px;
+}
+.icon{
+    height:25px;
+}
+.single-menu{
+    display: flex;
+    align-items: center;
+    gap:15px;
+    padding:10px 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: 10px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 30px;
+    background-color: lightgray;
 }
 
 

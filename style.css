@@ -173,5 +173,27 @@ body{
     margin-bottom: 30px;
     background-color: lightgray;
 }
-
+.insta-mainbox{
+    border: 1px solid green;
+    width:400px;
+    margin: 20px auto;
+    padding:20px;
+}
+.mainbox-row{
+    display: flex;
+    justify-content: space-around;
+}
+.logoarea{
+    width:200px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 2000px;
+}
+.topview{
+    display: flex;
+}
+.x{
+    border: 1px solid red;
+    border-radius: 50%;
+}
 
